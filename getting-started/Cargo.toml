@@ -1,0 +1,8 @@
+[package]
+name = "start"
+version = "0.2.0"
+
+[dependencies]
+panic-abort = "~0.3"
+microbit="~0.6"
+cortex-m-rt="~0.6"
